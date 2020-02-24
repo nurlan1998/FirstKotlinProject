@@ -22,4 +22,8 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/roll"/>
 
+    <TextView
+        android:text="Hello world"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
